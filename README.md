@@ -1,4 +1,4 @@
 # FirstProjectGit 😍👨‍💻
-Project for working the first time with Git.
+Project for working the first time with Git and Github.
 
-[![git](git "git")](https://www.freecodecamp.org/news/content/images/2022/07/git-github.png "git")
+<img src="https://www.freecodecamp.org/news/content/images/2022/07/git-github.png"/>
